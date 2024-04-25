@@ -1,1 +1,1 @@
-New Project(Practice)
+Hello Git and GitHub
